@@ -36,7 +36,7 @@ class Profile extends StatelessWidget {
             
             SizedBox(height: 16),
             Text(
-              'BruceGamePlay',
+              'AnaBeaGamePlays',
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
